@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume</title>
     <h1>Tushal Kumar</h1>
     <img src="./6250a.JPG" width="190" height="200"/>
     <h2>Summary</h2>
